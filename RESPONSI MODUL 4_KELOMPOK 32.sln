@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RESPONSI MODUL 4_KELOMPOK 32", "RESPONSI MODUL 4_KELOMPOK 32\RESPONSI MODUL 4_KELOMPOK 32.pyproj", "{18AFABC8-556F-4D02-A66E-0DE225788AF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18AFABC8-556F-4D02-A66E-0DE225788AF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18AFABC8-556F-4D02-A66E-0DE225788AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7892BF32-0F66-4FFD-8B27-674F1DEDF45C}
+	EndGlobalSection
+EndGlobal
